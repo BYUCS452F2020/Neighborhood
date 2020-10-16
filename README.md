@@ -9,7 +9,7 @@ Neighborhood is a web app that is made to help people meet! Sign up with your ro
 Create a customizable home page that allows you to show off you and your roommates! Customize your page with pictures, live stories, personal interest, group interest, links to social media and more! 
 
 ## Team
-Looking for 1-2.
+Looking for 1-2
 
 ## SQL
 MS SQL 
